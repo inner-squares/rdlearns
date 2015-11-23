@@ -41,19 +41,19 @@ var Harvest = sequelize.define('harvest', {
   seed: {
     type: Sequelize.BIGINT
   },
-  // the big stuff is here
   fertilizer: {
-    type: Sequelize.STRING,
-    get: function () {
-      var fert_string = this.getDataValue('fertilizer')
-      return JSON.parse(fert_string)
-    }
+    type: Sequelize.STRING
   },
   solution: {
     type: Sequelize.STRING
   },
+  // the big stuff is here
   harvest: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    get: function () {
+      var harv_string = this.getDataValue('harvest')
+      return JSON.parse(harv_string)
+    }
   },
   solver: {
     type: Sequelize.STRING
