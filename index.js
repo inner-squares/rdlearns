@@ -45,7 +45,12 @@ var Harvest = sequelize.define('harvest', {
     type: Sequelize.STRING
   },
   solution: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    get: function () {
+      var sol_string = this.getDataValue('solution')
+      var sol_part = sol_string.split(':')
+      return { 'discard': sol_part[0], 'repeats': sol_part[1] }
+    }
   },
   // the big stuff is here
   harvest: {
@@ -67,10 +72,12 @@ var Harvest = sequelize.define('harvest', {
 })
 
 // search for attributes
+/*
 Harvest.findOne({ where: {crop: 0} }).then(function (theCrop) {
   // project will be the first entry of the Projects table with the title 'aProject' || null
   console.log(theCrop)
 })
+*/
 
 /* User.sync({force: true}).then(function () {
   // Table created
