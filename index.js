@@ -41,8 +41,13 @@ var Harvest = sequelize.define('harvest', {
   seed: {
     type: Sequelize.BIGINT
   },
+  // the big stuff is here
   fertilizer: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    get: function () {
+      var fert_string = this.getDataValue('fertilizer')
+      return JSON.parse(fert_string)
+    }
   },
   solution: {
     type: Sequelize.STRING
