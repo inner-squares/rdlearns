@@ -9,6 +9,12 @@ app.get('/', function (req, res) {
   })
 })
 
+app.get('/harvest', function (req, res) {
+  Harvest.findOne({ where: {crop: req.query.crop} }).then(function (theCrop) {
+    res.send(theCrop)
+  })
+})
+
 var server = app.listen(3000, function () {
   var host = server.address().address
   var port = server.address().port
