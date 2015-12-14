@@ -1,7 +1,7 @@
 var express = require('express')
 var app = express()
 
-var harvest_finder = require('harvest_finder')
+var harvest_finder = require('./harvest_finder')
 
 // app.get('/', function (req, res) {
 //   // res.send('Hello World!')
