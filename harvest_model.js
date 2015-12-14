@@ -12,7 +12,7 @@ var sequelize = new Sequelize('farmland', 'root', 'raspberry', {
 
 })
 
-export default sequelize.define('harvest', {
+module.exports = sequelize.define('harvest', {
   crop: {
     type: Sequelize.INTEGER,
     primaryKey: true
