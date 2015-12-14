@@ -1,6 +1,6 @@
-import Harvest from 'harvest_model'
+var harvest_model = require('harvest_model')
 
-export default function (req, res) {
+module.exports = function (req, res) {
   Harvest.findOne({
     where: {
       seed: req.query.seed,
