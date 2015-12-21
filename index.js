@@ -1,6 +1,8 @@
 var express = require('express')
 var app = express()
+express.static.mime.default_type = 'text/html'
 app.use(express.static('public'))
+
 
 var harvest_finder = require('./harvest_finder')
 
