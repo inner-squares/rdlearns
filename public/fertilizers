@@ -1,0 +1,334 @@
+pow(oLiL,2)
+pow(oLiL,2) - oL
+pow(oLiL,2) - iL
+pow(oLiL,2) - iR
+pow(oLiL,2) - oR
+pow(oLiL,2) + oL
+pow(oLiL,2) + iL
+pow(oLiL,2) + iR
+pow(oLiL,2) + oR
+pow(oLiL,2)
+pow(oL - iL,2)
+pow(oL - iL,2) - oL
+pow(oL - iL,2) - iL
+pow(oL - iL,2) - iR
+pow(oL - iL,2) - oR
+pow(oL - iL,2) + oL
+pow(oL - iL,2) + iL
+pow(oL - iL,2) + iR
+pow(oL - iL,2) + oR
+pow(oL - iL,2)
+pow(oL + iL,2)
+pow(oL + iL,2) - oL
+pow(oL + iL,2) - iL
+pow(oL + iL,2) - iR
+pow(oL + iL,2) - oR
+pow(oL + iL,2) + oL
+pow(oL + iL,2) + iL
+pow(oL + iL,2) + iR
+pow(oL + iL,2) + oR
+pow(oL + iL,2)
+pow(oL * iL,2)
+pow(oL * iL,2) - oL
+pow(oL * iL,2) - iL
+pow(oL * iL,2) - iR
+pow(oL * iL,2) - oR
+pow(oL * iL,2) + oL
+pow(oL * iL,2) + iL
+pow(oL * iL,2) + iR
+pow(oL * iL,2) + oR
+pow(oL * iL,2)
+pow(oLiR,2)
+pow(oLiR,2) - oL
+pow(oLiR,2) - iL
+pow(oLiR,2) - iR
+pow(oLiR,2) - oR
+pow(oLiR,2) + oL
+pow(oLiR,2) + iL
+pow(oLiR,2) + iR
+pow(oLiR,2) + oR
+pow(oLiR,2)
+pow(oL - iR,2)
+pow(oL - iR,2) - oL
+pow(oL - iR,2) - iL
+pow(oL - iR,2) - iR
+pow(oL - iR,2) - oR
+pow(oL - iR,2) + oL
+pow(oL - iR,2) + iL
+pow(oL - iR,2) + iR
+pow(oL - iR,2) + oR
+pow(oL - iR,2)
+pow(oL + iR,2)
+pow(oL + iR,2) - oL
+pow(oL + iR,2) - iL
+pow(oL + iR,2) - iR
+pow(oL + iR,2) - oR
+pow(oL + iR,2) + oL
+pow(oL + iR,2) + iL
+pow(oL + iR,2) + iR
+pow(oL + iR,2) + oR
+pow(oL + iR,2)
+pow(oL * iR,2)
+pow(oL * iR,2) - oL
+pow(oL * iR,2) - iL
+pow(oL * iR,2) - iR
+pow(oL * iR,2) - oR
+pow(oL * iR,2) + oL
+pow(oL * iR,2) + iL
+pow(oL * iR,2) + iR
+pow(oL * iR,2) + oR
+pow(oL * iR,2)
+pow(oLoR,2)
+pow(oLoR,2) - oL
+pow(oLoR,2) - iL
+pow(oLoR,2) - iR
+pow(oLoR,2) - oR
+pow(oLoR,2) + oL
+pow(oLoR,2) + iL
+pow(oLoR,2) + iR
+pow(oLoR,2) + oR
+pow(oLoR,2)
+pow(oL - oR,2)
+pow(oL - oR,2) - oL
+pow(oL - oR,2) - iL
+pow(oL - oR,2) - iR
+pow(oL - oR,2) - oR
+pow(oL - oR,2) + oL
+pow(oL - oR,2) + iL
+pow(oL - oR,2) + iR
+pow(oL - oR,2) + oR
+pow(oL - oR,2)
+pow(oL + oR,2)
+pow(oL + oR,2) - oL
+pow(oL + oR,2) - iL
+pow(oL + oR,2) - iR
+pow(oL + oR,2) - oR
+pow(oL + oR,2) + oL
+pow(oL + oR,2) + iL
+pow(oL + oR,2) + iR
+pow(oL + oR,2) + oR
+pow(oL + oR,2)
+pow(oL * oR,2)
+pow(oL * oR,2) - oL
+pow(oL * oR,2) - iL
+pow(oL * oR,2) - iR
+pow(oL * oR,2) - oR
+pow(oL * oR,2) + oL
+pow(oL * oR,2) + iL
+pow(oL * oR,2) + iR
+pow(oL * oR,2) + oR
+pow(oL * oR,2)
+pow(iLoL,2)
+pow(iLoL,2) - oL
+pow(iLoL,2) - iL
+pow(iLoL,2) - iR
+pow(iLoL,2) - oR
+pow(iLoL,2) + oL
+pow(iLoL,2) + iL
+pow(iLoL,2) + iR
+pow(iLoL,2) + oR
+pow(iLoL,2)
+pow(iL - oL,2)
+pow(iL - oL,2) - oL
+pow(iL - oL,2) - iL
+pow(iL - oL,2) - iR
+pow(iL - oL,2) - oR
+pow(iL - oL,2) + oL
+pow(iL - oL,2) + iL
+pow(iL - oL,2) + iR
+pow(iL - oL,2) + oR
+pow(iL - oL,2)
+pow(iL + oL,2)
+pow(iL + oL,2) - oL
+pow(iL + oL,2) - iL
+pow(iL + oL,2) - iR
+pow(iL + oL,2) - oR
+pow(iL + oL,2) + oL
+pow(iL + oL,2) + iL
+pow(iL + oL,2) + iR
+pow(iL + oL,2) + oR
+pow(iL + oL,2)
+pow(iL * oL,2)
+pow(iL * oL,2) - oL
+pow(iL * oL,2) - iL
+pow(iL * oL,2) - iR
+pow(iL * oL,2) - oR
+pow(iL * oL,2) + oL
+pow(iL * oL,2) + iL
+pow(iL * oL,2) + iR
+pow(iL * oL,2) + oR
+pow(iL * oL,2)
+pow(iLiR,2)
+pow(iLiR,2) - oL
+pow(iLiR,2) - iL
+pow(iLiR,2) - iR
+pow(iLiR,2) - oR
+pow(iLiR,2) + oL
+pow(iLiR,2) + iL
+pow(iLiR,2) + iR
+pow(iLiR,2) + oR
+pow(iLiR,2)
+pow(iL - iR,2)
+pow(iL - iR,2) - oL
+pow(iL - iR,2) - iL
+pow(iL - iR,2) - iR
+pow(iL - iR,2) - oR
+pow(iL - iR,2) + oL
+pow(iL - iR,2) + iL
+pow(iL - iR,2) + iR
+pow(iL - iR,2) + oR
+pow(iL - iR,2)
+pow(iL + iR,2)
+pow(iL + iR,2) - oL
+pow(iL + iR,2) - iL
+pow(iL + iR,2) - iR
+pow(iL + iR,2) - oR
+pow(iL + iR,2) + oL
+pow(iL + iR,2) + iL
+pow(iL + iR,2) + iR
+pow(iL + iR,2) + oR
+pow(iL + iR,2)
+pow(iL * iR,2)
+pow(iL * iR,2) - oL
+pow(iL * iR,2) - iL
+pow(iL * iR,2) - iR
+pow(iL * iR,2) - oR
+pow(iL * iR,2) + oL
+pow(iL * iR,2) + iL
+pow(iL * iR,2) + iR
+pow(iL * iR,2) + oR
+pow(iL * iR,2)
+pow(iLoR,2)
+pow(iLoR,2) - oL
+pow(iLoR,2) - iL
+pow(iLoR,2) - iR
+pow(iLoR,2) - oR
+pow(iLoR,2) + oL
+pow(iLoR,2) + iL
+pow(iLoR,2) + iR
+pow(iLoR,2) + oR
+pow(iLoR,2)
+pow(iL - oR,2)
+pow(iL - oR,2) - oL
+pow(iL - oR,2) - iL
+pow(iL - oR,2) - iR
+pow(iL - oR,2) - oR
+pow(iL - oR,2) + oL
+pow(iL - oR,2) + iL
+pow(iL - oR,2) + iR
+pow(iL - oR,2) + oR
+pow(iL - oR,2)
+pow(iL + oR,2)
+pow(iL + oR,2) - oL
+pow(iL + oR,2) - iL
+pow(iL + oR,2) - iR
+pow(iL + oR,2) - oR
+pow(iL + oR,2) + oL
+pow(iL + oR,2) + iL
+pow(iL + oR,2) + iR
+pow(iL + oR,2) + oR
+pow(iL + oR,2)
+pow(iL * oR,2)
+pow(iL * oR,2) - oL
+pow(iL * oR,2) - iL
+pow(iL * oR,2) - iR
+pow(iL * oR,2) - oR
+pow(iL * oR,2) + oL
+pow(iL * oR,2) + iL
+pow(iL * oR,2) + iR
+pow(iL * oR,2) + oR
+pow(iL * oR,2)
+pow(iRoL,2)
+pow(iRoL,2) - oL
+pow(iRoL,2) - iL
+pow(iRoL,2) - iR
+pow(iRoL,2) - oR
+pow(iRoL,2) + oL
+pow(iRoL,2) + iL
+pow(iRoL,2) + iR
+pow(iRoL,2) + oR
+pow(iRoL,2)
+pow(iR - oL,2)
+pow(iR - oL,2) - oL
+pow(iR - oL,2) - iL
+pow(iR - oL,2) - iR
+pow(iR - oL,2) - oR
+pow(iR - oL,2) + oL
+pow(iR - oL,2) + iL
+pow(iR - oL,2) + iR
+pow(iR - oL,2) + oR
+pow(iR - oL,2)
+pow(iR + oL,2)
+pow(iR + oL,2) - oL
+pow(iR + oL,2) - iL
+pow(iR + oL,2) - iR
+pow(iR + oL,2) - oR
+pow(iR + oL,2) + oL
+pow(iR + oL,2) + iL
+pow(iR + oL,2) + iR
+pow(iR + oL,2) + oR
+pow(iR + oL,2)
+pow(iR * oL,2)
+pow(iR * oL,2) - oL
+pow(iR * oL,2) - iL
+pow(iR * oL,2) - iR
+pow(iR * oL,2) - oR
+pow(iR * oL,2) + oL
+pow(iR * oL,2) + iL
+pow(iR * oL,2) + iR
+pow(iR * oL,2) + oR
+pow(iR * oL,2)
+pow(iRiL,2)
+pow(iRiL,2) - oL
+pow(iRiL,2) - iL
+pow(iRiL,2) - iR
+pow(iRiL,2) - oR
+pow(iRiL,2) + oL
+pow(iRiL,2) + iL
+pow(iRiL,2) + iR
+pow(iRiL,2) + oR
+pow(iRiL,2)
+pow(iR - iL,2)
+pow(iR - iL,2) - oL
+pow(iR - iL,2) - iL
+pow(iR - iL,2) - iR
+pow(iR - iL,2) - oR
+pow(iR - iL,2) + oL
+pow(iR - iL,2) + iL
+pow(iR - iL,2) + iR
+pow(iR - iL,2) + oR
+pow(iR - iL,2)
+pow(iR + iL,2)
+pow(iR + iL,2) - oL
+pow(iR + iL,2) - iL
+pow(iR + iL,2) - iR
+pow(iR + iL,2) - oR
+pow(iR + iL,2) + oL
+pow(iR + iL,2) + iL
+pow(iR + iL,2) + iR
+pow(iR + iL,2) + oR
+pow(iR + iL,2)
+pow(iR * iL,2)
+pow(iR * iL,2) - oL
+pow(iR * iL,2) - iL
+pow(iR * iL,2) - iR
+pow(iR * iL,2) - oR
+pow(iR * iL,2) + oL
+pow(iR * iL,2) + iL
+pow(iR * iL,2) + iR
+pow(iR * iL,2) + oR
+pow(iR * iL,2)
+pow(iRoR,2)
+pow(iRoR,2) - oL
+pow(iRoR,2) - iL
+pow(iRoR,2) - iR
+pow(iRoR,2) - oR
+pow(iRoR,2) + oL
+pow(iRoR,2) + iL
+pow(iRoR,2) + iR
+pow(iRoR,2) + oR
+pow(iRoR,2)
+pow(iR - oR,2)
+pow(iR - oR,2) - oL
+pow(iR - oR,2) - iL
+pow(iR - oR,2) - iR
