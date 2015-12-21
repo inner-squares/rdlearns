@@ -1,4 +1,4 @@
-var harvest_model = require('harvest_model')
+var Harvest = require('./harvest_model')
 
 module.exports = function (req, res) {
   Harvest.findOne({
