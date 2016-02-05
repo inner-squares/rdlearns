@@ -3,18 +3,11 @@ var app = express()
 express.static.mime.default_type = 'text/html'
 app.use(express.static('public'))
 
-
 var harvest_finder = require('./harvest_finder')
-
-// app.get('/', function (req, res) {
-//   // res.send('Hello World!')
-//   Harvest.findOne({ where: {crop: 0} }).then(function (theCrop) {
-//     // project will be the first entry of the Projects table with the title 'aProject' || null
-//     res.send(theCrop)
-//   })
-// })
-
 app.get('/harvest', harvest_finder)
+
+var fertilizer_index = require('./fertilizer_index')
+app.get('/fertilizers', fertilizer_index)
 
 var server = app.listen(3000, function () {
   var host = server.address().address
