@@ -13,23 +13,5 @@ var server = app.listen(3000, function () {
   var host = server.address().address
   var port = server.address().port
 
-  console.log('Example app listening at http://%s:%s', host, port)
+  console.log('Example app listening at http://%s:%s !!', host, port)
 })
-
-
-
-// search for attributes
-/*
-Harvest.findOne({ where: {crop: 0} }).then(function (theCrop) {
-  // project will be the first entry of the Projects table with the title 'aProject' || null
-  console.log(theCrop)
-})
-*/
-
-/* User.sync({force: true}).then(function () {
-  // Table created
-  return User.create({
-    firstName: 'John',
-    lastName: 'Hancock'
-  });
-});*/

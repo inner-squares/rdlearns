@@ -6,6 +6,8 @@ module.exports = function (req, res) // requst & response
     plain: false
   }).then(function (theCrop) {
     console.log(theCrop)
-    res.send(theCrop)
+    console.log("Im here")
+    res.send("foo")
+    //res.send(JSON.stringify(theCrop))
   })
 }
